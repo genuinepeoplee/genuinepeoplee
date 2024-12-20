@@ -8,6 +8,6 @@
 2343
 <!---dfg
 555
-genuinepeoplee/genuinepeoplee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+genuinepeoplee/genuinepeoplee is a ✨ special ✨ repository because its `README.md` (this file) appe15ars on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
