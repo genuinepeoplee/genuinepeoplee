@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @genuinepeoplee
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...jj
 - 🌱 I’m currently learning ...543
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...6
